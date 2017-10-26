@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FliashAirDemo.iml" filepath="$PROJECT_DIR$/FliashAirDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlashAirDemo.iml" filepath="$PROJECT_DIR$/FlashAirDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_tutorial_08/android_tutorial_08.iml" filepath="$PROJECT_DIR$/android_tutorial_08/android_tutorial_08.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

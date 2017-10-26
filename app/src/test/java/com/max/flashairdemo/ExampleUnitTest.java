@@ -1,4 +1,4 @@
-package com.max.fliashairdemo;
+package com.max.flashairdemo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.max.fliashairdemo;
+package com.max.flashairdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
